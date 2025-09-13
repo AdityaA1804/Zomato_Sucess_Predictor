@@ -27,8 +27,4 @@ This project:
 - ✅ End-to-end workflow: data cleaning → feature engineering → model training → evaluation.  
 - ✅ Deep Neural Network for success prediction.  
 - ✅ Interactive heatmap visualization of prediction results.  
-- ✅ Jupyter Notebooks provided for reproducibility and experimentation.  
-
----
-
-## 📂 Project Structure  
+- ✅ Jupyter Notebooks provided for reproducibility and experimentation.
